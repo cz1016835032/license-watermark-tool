@@ -1,0 +1,13 @@
+- [x] Verify that the copilot-instructions.md file in the .github directory is created.
+- [x] Clarify Project Requirements
+- [x] Scaffold the Project
+- [x] Customize the Project
+- [x] Install Required Extensions
+- [x] Compile the Project
+- [x] Create and Run Task
+- [ ] Launch the Project
+- [x] Ensure Documentation is Complete
+- Project: local Vite app for business-license watermarking.
+- Stack: plain HTML, CSS, JavaScript with browser-only image processing.
+- Scope: upload image, add tiled text watermark, preview, and download PNG.
+- Extensions: none required for this workspace.
